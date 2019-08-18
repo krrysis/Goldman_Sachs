@@ -54,4 +54,6 @@ Pick one of the choices
     4
     5
     none of the above
+
+ANSWER: 2
 """
