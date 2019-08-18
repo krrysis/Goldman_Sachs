@@ -10,4 +10,5 @@ Pick one of the choices
     5.76
     None of the above
 
+ANSWER: 6.76
 """
