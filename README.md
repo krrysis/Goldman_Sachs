@@ -1,2 +1,3 @@
 # Goldman_Sachs
-Goldman Sachs Engineers Campus Hiring Program 2020 Test held on Hackerrank. Dated: 18 Aug 2019
+<b>Goldman Sachs Engineers Campus Hiring Program</b> 2020 Test held on Hackerrank. <br>
+<b>Dated:</b> 18 Aug 2019
