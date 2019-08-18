@@ -13,4 +13,6 @@ Pick one of the choices
     22_C_11 - 22_C_12
     20_C_10 - 20_C_11
     none of the above
+
+ANSWER: 24_C_12 - 24_C_13
 """
