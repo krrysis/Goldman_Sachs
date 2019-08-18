@@ -33,4 +33,6 @@ Pick one of the choices
     120
 
     none of the above
+
+ANSWER: 25
 """
